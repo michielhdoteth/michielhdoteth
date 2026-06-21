@@ -3,11 +3,9 @@
 [![Builder](https://img.shields.io/badge/Builder-00ff9d?style=for-the-badge)](https://4mlabs.io)
 [![Focus](https://img.shields.io/badge/Focus-AI_Agents-neon?style=for-the-badge)](https://github.com/michielhdoteth)
 
-26, based in Guadalajara. I build AI agents, memory systems, and developer tools that run on their own.
+I build AI agents, memory systems, and developer tools that run on their own. Most of my work sits around one idea: AI tools are only useful when they can remember, inspect, act, and improve across sessions.
 
-> AI tools are only useful when they can remember, inspect, act, and improve across sessions.
-
-Founder of [4M Labs](https://4mlabs.io) â€” agents-as-a-service and development-as-a-service.
+Founder of [4M Labs](https://4mlabs.io), an AI dev studio doing agents-as-a-service and development-as-a-service. I publish on [Medium](https://michielh.medium.com), write research on refusal behavior and self-enhancement, and ship open source tools for agents.
 
 ---
 
