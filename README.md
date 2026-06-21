@@ -1,5 +1,8 @@
 # Michiel Horstman
 
+[![Builder](https://img.shields.io/badge/Builder-00ff9d?style=for-the-badge)](https://4mlabs.io)
+[![Focus](https://img.shields.io/badge/Focus-AI_Agents-neon?style=for-the-badge)](https://github.com/michielhdoteth)
+
 Founder of [4M Labs](https://4mlabs.io).
 I build AI agents, developer tools, and local-first systems for people who want software that actually runs.
 
