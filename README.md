@@ -1,61 +1,64 @@
 # Michiel Horstman
-**Founder, [4M Labs](https://4mlabs.io) | Autonomous Systems Engineer**
 
-![Builder](https://img.shields.io/badge/Role-Builder-00ff9d?style=for-the-badge)
-![4M Labs](https://img.shields.io/badge/4M_Labs-Founder-blue?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Multi_Agent_Systems-neon?style=for-the-badge)
+**Founder, [4M Labs](https://4mlabs.io) | Building autonomous AI systems from Guadalajara, Mexico**
 
-I design and build autonomous AI systems.
-
-My work focuses on multi-agent architectures, applied LLM infrastructure, and production-ready AI orchestration.  
-I care about systems that run continuously, make decisions, and operate with minimal human intervention.
+[![Builder](https://img.shields.io/badge/Role-Builder-00ff9d?style=for-the-badge)](https://4mlabs.io)
+[![4M Labs](https://img.shields.io/badge/4M_Labs-Founder-blue?style=for-the-badge)](https://4mlabs.io)
+[![Focus](https://img.shields.io/badge/Focus-Autonomous_Systems-neon?style=for-the-badge)](https://github.com/michielhdoteth)
 
 ---
 
-## 🏗 4M Labs
+## What I Do
 
-AI development studio focused on:
+I design and build AI systems that run continuously, make decisions, and operate with minimal human intervention. My work spans multi-agent orchestration, persistent memory infrastructure, and production LLM deployment.
 
-- Multi-agent orchestration frameworks  
-- Persistent memory systems  
-- Long-running autonomous agents  
-- Applied reinforcement learning loops  
-- Production deployment of LLM systems  
-
-Research → Architecture → Deployment.
+Currently building at [4M Labs](https://4mlabs.io) -- an AI development studio focused on agents-as-a-service and development-as-a-service.
 
 ---
 
-## 🧠 Technical Focus
+## Open Source Projects
 
-- **Multi-Agent Architectures**  
-  Orchestrator / Director / Executor patterns  
-  LangGraph, structured tool-calling, modular design  
-
-- **LLM Systems Engineering**  
-  RAG pipelines, memory layers, fine-tuning, quantization  
-  Efficient inference and local model deployment  
-
-- **Autonomous Infrastructure**  
-  Long-running agents, evaluation loops, self-improving pipelines  
-  Agent memory, state tracking, and system observability  
+| Project | What It Does | Status |
+|---------|-------------|--------|
+| [squish](https://github.com/michielhdoteth/squish) | Local-first memory runtime for AI agents. One command to connect Claude Code, Codex, ChatGPT, MCP workflows. | v1.6.0, 3100+ installs |
+| [ophanim](https://github.com/michielhdoteth/ophanim) | Local vision CLI for shell-capable agents. Inspect videos, ask visual questions, transcribe audio. | 140+ tests |
+| [awesome-ai-agent-tools](https://github.com/michielhdoteth/awesome-ai-agent-tools) | Comprehensive open-source library for AI agent skills, MCP servers, and agent workflows. | Public |
+| [blasphemous](https://github.com/michielhdoteth/blasphemous) | Refusal reduction toolkit for LLMs using optimal transport, LoRA ablation, and causal verification. | v0.4.0 |
+| [code-cartographer](https://github.com/michielhdoteth/code-cartographer) | Codebase exploration and architecture mapping tool. | Public |
 
 ---
 
-## 📝 Writing
+## Active Building
 
-I publish technical breakdowns and deep dives on Medium covering:
-
-- Agent system design  
-- LLM optimization  
-- Reinforcement learning systems  
-- Real-world AI deployment strategies  
-
-Medium: https://michielh.medium.com
+| Project | Stack | What It Is |
+|---------|-------|-----------|
+| **4M Labs** | FastAPI + Next.js + MCP | 55-route API, dual-auth portal, 5 AI personas, 26+ MCP data sources |
+| **DynaMind** | OpenClaw + CCXT + Next.js | 28-agent crypto trading platform |
+| **mediapp.ai** | Next.js + Express + Expo | Cross-platform AI medical assistant for Mexican healthcare |
+| **ZKYC** | Circom + SmolVLM | Zero-knowledge identity verification SDK |
+| **claude-bible** | Markdown + MCP | Claude Code knowledge base (32K+ MCP repos referenced) |
+| **Life OS** | SQLite + MCP | Personal tracking dashboard (16 views, 8 MCP tools) |
 
 ---
 
-## 🛠 Stack
+## Research
+
+| Area | Work |
+|------|------|
+| Self-enhancement | HermesBase, PLATO, SEALLM, UnifiedAgent, Psi-LM |
+| Reasoning | Prometheus AI (token emission control, 98 scripts), VRGD (Verified Reasoning Graph Dataset) |
+| Safety | blasphemous (refusal removal), CLASSROOM (Chain-of-Teachers distillation) |
+| Personal AI | MichielGPT (3-layer fine-tuning stack, Qwen2.5-1.5B) |
+
+---
+
+## Writing
+
+I publish technical breakdowns on [Medium](https://michielh.medium.com) covering agent system design, LLM optimization, reinforcement learning, and real-world AI deployment.
+
+---
+
+## Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -68,11 +71,11 @@ Medium: https://michielh.medium.com
 
 ---
 
-## 🔗 Connect
+## Connect
 
-Website: https://michieh.me  
-Twitter: https://twitter.com/michieldoteth  
-Email: michiel@4mlabs.io  
+Website: https://michielh.me
+Twitter: https://twitter.com/michieldoteth
+Email: michiel@4mlabs.io
 
 ---
 
