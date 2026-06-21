@@ -42,7 +42,7 @@ Experimental research toolkit for refusal behavior, alignment, and model control
 
 ## Stack
 
-TypeScript Â· Python Â· Next.js Â· FastAPI Â· Postgres Â· Redis Â· Docker Â· MCP Â· Local LLMs
+TypeScript | Python | Next.js | FastAPI | Postgres | Redis | Docker | MCP | Local LLMs
 
 ---
 
