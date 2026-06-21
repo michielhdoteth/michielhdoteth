@@ -1,61 +1,56 @@
 # Michiel Horstman
 
-**Founder, [4M Labs](https://4mlabs.io) | Autonomous Systems Engineer**
+Founder of [4M Labs](https://4mlabs.io).
+I build AI agents, developer tools, and local-first systems for people who want software that actually runs.
 
-[![Builder](https://img.shields.io/badge/Builder-00ff9d?style=for-the-badge)](https://4mlabs.io)
-[![Focus](https://img.shields.io/badge/Focus-AI_Agents-neon?style=for-the-badge)](https://github.com/michielhdoteth)
+Most of my work sits around one idea:
 
-I build AI systems that think, decide, and run on their own.
-
-Currently running [4M Labs](https://4mlabs.io) -- agents-as-a-service and dev-as-a-service, out of Guadalajara, Mexico.
+> AI tools are only useful when they can remember, inspect, act, and improve across sessions.
 
 ---
 
-### What I Ship
+## What I'm building
 
-**[squish](https://github.com/michielhdoteth/squish)** -- Local-first memory runtime for AI agents. Connect Claude Code, Codex, ChatGPT, and MCP workflows in one command. `v1.6.0` | `3100+ installs`
+### [Squish](https://github.com/michielhdoteth/squish)
+Local-first memory runtime for AI agents.
+Connect Claude Code, Codex, ChatGPT, MCP workflows, and local agents to shared persistent memory.
 
-**[ophanim](https://github.com/michielhdoteth/ophanim)** -- Vision CLI for shell agents. Inspect videos, ask visual questions, transcribe audio, segment objects. `140+ tests`
+### [Ophanim](https://github.com/michielhdoteth/ophanim)
+Vision CLI for agents that don't have vision.
+Inspect images, videos, transcripts, frames, and objects from the shell.
 
-**[awesome-ai-agent-tools](https://github.com/michielhdoteth/awesome-ai-agent-tools)** -- Open-source library for AI agent skills, MCP servers, and workflows. Works with Claude Code, OpenCode, Codex, Cursor, Gemini CLI, and 30+ agents.
+### [Awesome AI Agent Tools](https://github.com/michielhdoteth/awesome-ai-agent-tools)
+A curated library of agent tools, MCP servers, skills, workflows, and dev environments.
 
-**[blasphemous](https://github.com/michielhdoteth/blasphemous)** -- Refusal reduction toolkit for LLMs. Optimal transport, LoRA ablation, causal verification.
-
----
-
-### Currently Building
-
-**4M Labs** -- 55-route API, dual-auth portal, 5 AI personas, 26+ MCP data sources
-
-**DynaMind** -- 28-agent crypto trading platform (OpenClaw + CCXT + Next.js dashboard)
-
-**mediapp.ai** -- AI medical assistant for Mexican healthcare (Next.js + Express + Expo)
-
-**ZKYC** -- Zero-knowledge identity verification SDK (Circom + SmolVLM)
-
-**claude-bible** -- Claude Code knowledge base referencing 32K+ MCP repos
+### [Blasphemous](https://github.com/michielhdoteth/blasphemous)
+Experimental research toolkit for refusal behavior, alignment, and model control.
 
 ---
 
-### Research
+## Current focus
 
-Self-enhancement stacks (HermesBase, PLATO, SEALLM) | Reasoning control (Prometheus AI, 98 scripts) | Safety alignment (CLASSROOM distillation) | Personal LLM fine-tuning (MichielGPT, Qwen2.5-1.5B)
-
----
-
-### Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232b.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+- Agent memory systems
+- MCP tooling
+- Vision-enabled agents
+- Local-first AI infrastructure
+- Applied AI systems for companies through 4M Labs
 
 ---
 
-[Website](https://michielh.me) Â· [Twitter](https://twitter.com/michieldoteth) Â· [Medium](https://michielh.medium.com) Â· [michiel@4mlabs.io](mailto:michiel@4mlabs.io)
+## Stack
 
-Building systems that think, adapt, and run.
+TypeScript Â· Python Â· Next.js Â· FastAPI Â· Postgres Â· Redis Â· Docker Â· MCP Â· Local LLMs
+
+---
+
+## Links
+
+- Website: [michielh.me](https://michielh.me)
+- Company: [4mlabs.io](https://4mlabs.io)
+- Medium: [michielh.medium.com](https://michielh.medium.com)
+- X / Twitter: [@michieldoteth](https://twitter.com/michieldoteth)
+- Email: michiel@4mlabs.io
+
+---
+
+Building systems that remember, see, and act.
