@@ -43,7 +43,4 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=michielhdoteth&color=ff6a00&style=flat-square&label=PROFILE+VIEWS)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michielhdoteth&show_icons=true&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&icon_color=ff6a00&title_color=ff6a00&hide_border=true)](https://github.com/michielhdoteth)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michielhdoteth&layout=compact&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=ff6a00&hide_border=true)](https://github.com/michielhdoteth)
-
 </div>
