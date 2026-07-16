@@ -28,9 +28,6 @@
 . "Chaos certus est, omnesque eius filii sumus."
 . ~ Chaos is certain, and we are all its children.
 
-. <b>Github Stats:</b>
-. <b>Repos:</b> ... 9 | <b>Stars:</b> ... 117 | <b>Followers:</b> ... 6
-. <b>Languages:</b> ................... TypeScript, Python, JavaScript
 </pre>
 </td>
 </tr>
@@ -45,5 +42,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-michielhdoteth-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/michielhdoteth)
 
 ![Visitors](https://komarev.com/ghpvc/?username=michielhdoteth&color=ff6a00&style=flat-square&label=PROFILE+VIEWS)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michielhdoteth&show_icons=true&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&icon_color=ff6a00&title_color=ff6a00&hide_border=true)](https://github.com/michielhdoteth)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michielhdoteth&layout=compact&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=ff6a00&hide_border=true)](https://github.com/michielhdoteth)
 
 </div>
