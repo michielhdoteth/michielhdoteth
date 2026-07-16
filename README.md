@@ -2,10 +2,10 @@
 <table>
 <tr>
 <td style="vertical-align: top; padding-right: 20px; border: none;">
-<img src="ascii-art.png" width="300">
+<img src="ascii-art.png" width="380">
 </td>
 <td style="vertical-align: top; border: none;">
-<pre style="font-family: 'Courier New', monospace; font-size: 12px; line-height: 1.6; color: #c9d1d9; margin: 0; background: transparent; border: none;">
+<pre style="font-family: 'Courier New', monospace; font-size: 9px; line-height: 1.6; color: #c9d1d9; margin: 0; background: transparent; border: none;">
 <b>michielhdoteth@github</b>
 
 . <b>OS:</b> ........................... NeuralOS 3.14 (AI-Native)
@@ -42,12 +42,4 @@
 </td>
 </tr>
 </table>
-</div>
-
----
-
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=michielhdoteth&color=ff6a00&style=flat-square&label=PROFILE+VIEWS)
-
 </div>
