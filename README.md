@@ -5,7 +5,7 @@
 <img src="ascii-art.png" width="300">
 </td>
 <td style="vertical-align: top; border: none;">
-<pre style="font-family: 'Courier New', monospace; font-size: 14px; line-height: 1.6; color: #c9d1d9; margin: 0; background: transparent; border: none;">
+<pre style="font-family: 'Courier New', monospace; font-size: 12px; line-height: 1.6; color: #c9d1d9; margin: 0; background: transparent; border: none;">
 <b>michielhdoteth@github</b>
 
 . <b>OS:</b> ........................... NeuralOS 3.14 (AI-Native)
@@ -47,21 +47,6 @@
 ---
 
 <div align="center">
-
-*"I build AI agents, memory systems, and developer tools that run on their own. Most of my work sits around one idea: AI tools are only useful when they can remember, inspect, act, and improve across sessions."*
-
-**Founder of [4M Labs](https://4mlabs.io) | [Website](https://michielh.me) | [Twitter](https://twitter.com/michielhdoteth) | [Medium](https://michielh.medium.com) | [michiel@4mlabs.io](mailto:michiel@4mlabs.io)**
-
-</div>
-
----
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-michielh.me-ff6a00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://michielh.me)
-[![Twitter](https://img.shields.io/badge/Twitter-@michielhdoteth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/michielhdoteth)
-[![Email](https://img.shields.io/badge/Email-michiel%404mlabs.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michiel@4mlabs.io)
-[![GitHub](https://img.shields.io/badge/GitHub-michielhdoteth-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michielhdoteth)
 
 ![Visitors](https://komarev.com/ghpvc/?username=michielhdoteth&color=ff6a00&style=flat-square&label=PROFILE+VIEWS)
 
