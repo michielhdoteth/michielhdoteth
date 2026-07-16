@@ -29,12 +29,6 @@
 . "Chaos certus est, omnesque eius filii sumus."
 . ~ Chaos is certain, and we are all its children.
 
-. <b>Contact:</b>
-. <b>Email:</b> ....................... michiel@4mlabs.io
-. <b>X/Twitter:</b> ................... @michielhdoteth
-. <b>Website:</b> ..................... michielh.me
-. <b>GitHub:</b> ...................... michielhdoteth
-
 . <b>Github Stats:</b>
 . <b>Repos:</b> ... 9 | <b>Stars:</b> ... 117 | <b>Followers:</b> ... 6
 . <b>Languages:</b> ................... TypeScript, Python, JavaScript
@@ -42,4 +36,15 @@
 </td>
 </tr>
 </table>
+</div>
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-michielh.me-ff6a00?style=flat-square&logo=googlechrome&logoColor=white)](https://michielh.me)
+[![Twitter](https://img.shields.io/badge/Twitter-@michielhdoteth-ff6a00?style=flat-square&logo=x&logoColor=white)](https://x.com/michielhdoteth)
+[![Email](https://img.shields.io/badge/Email-michiel%404mlabs.io-ff6a00?style=flat-square&logo=gmail&logoColor=white)](mailto:michiel@4mlabs.io)
+[![GitHub](https://img.shields.io/badge/GitHub-michielhdoteth-ff6a00?style=flat-square&logo=github&logoColor=white)](https://github.com/michielhdoteth)
+
+![Visitors](https://komarev.com/ghpvc/?username=michielhdoteth&color=ff6a00&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
