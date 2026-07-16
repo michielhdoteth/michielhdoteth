@@ -60,12 +60,12 @@
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michielhdoteth&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6a00&icon_color=ff6a00&text_color=c9d1d9&ring_color=ff6a00&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michielhdoteth&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6a00&icon_color=ff6a00&text_color=c9d1d9&ring_color=ff6a00)
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michielhdoteth&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=c9d1d9&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michielhdoteth&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=c9d1d9&langs_count=6)
 
 </td>
 </tr>
@@ -75,7 +75,7 @@
 <tr>
 <td width="50%">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michielhdoteth&theme=radical&hide_border=true&background=0d1117&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00&sideLabels=c9d1d9&dates=8b949e)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michielhdoteth&hide_border=true&background=0d1117&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00&sideLabels=c9d1d9&dates=8b949e)
 
 </td>
 <td width="50%">
@@ -101,6 +101,11 @@
 ---
 
 <div align="center">
+
+[![Website](https://img.shields.io/badge/Website-michielh.me-ff6a00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://michielh.me)
+[![Twitter](https://img.shields.io/badge/Twitter-@michielhdoteth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/michielhdoteth)
+[![Email](https://img.shields.io/badge/Email-michiel%404mlabs.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michiel@4mlabs.io)
+[![GitHub](https://img.shields.io/badge/GitHub-michielhdoteth-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michielhdoteth)
 
 ![Visitors](https://komarev.com/ghpvc/?username=michielhdoteth&color=ff6a00&style=flat-square&label=PROFILE+VIEWS)
 
