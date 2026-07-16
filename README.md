@@ -1,46 +1,48 @@
+<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px; margin: 20px 0;">
 <table>
 <tr>
-<td width="40%">
-<img src="ascii-art.png" width="100%">
+<td style="vertical-align: top; padding-right: 20px; border: none;">
+<img src="ascii-art.png" width="300">
 </td>
-<td width="60%">
+<td style="vertical-align: top; border: none;">
+<pre style="font-family: 'Courier New', monospace; font-size: 14px; line-height: 1.6; color: #c9d1d9; margin: 0; background: transparent; border: none;">
+<b>michielhdoteth@github</b>
 
-**michielhdoteth@github**
+. <b>OS:</b> ........................... NeuralOS 3.14 (AI-Native)
+. <b>Uptime:</b> ...................... ∞ (never sleeps)
+. <b>Host:</b> ........................ 4M Labs
+. <b>Kernel:</b> ...................... Chaos Engine v2.0
+. <b>IDE:</b> ......................... VS Code, OpenCode
 
-. **OS:** ........................... NeuralOS 3.14 (AI-Native)
-. **Uptime:** ...................... ∞ (never sleeps)
-. **Host:** ........................ 4M Labs
-. **Kernel:** ...................... Chaos Engine v2.0
-. **IDE:** ......................... VS Code, OpenCode
+. <b>Languages.Programming:</b> ....... TypeScript, Python, JavaScript
+. <b>Languages.Computer:</b> .......... HTML, CSS, JSON, YAML, Markdown
+. <b>Languages.AI:</b> ............... LLMs, MCP, Agents, Memory
 
-. **Languages.Programming:** ....... TypeScript, Python, JavaScript
-. **Languages.Computer:** .......... HTML, CSS, JSON, YAML, Markdown
-. **Languages.AI:** ............... LLMs, MCP, Agents, Memory
+. <b>Expertise:</b>
+. &gt; AI Agents &amp; Memory Systems
+. &gt; LLM Infrastructure
+. &gt; Developer Tools
+. &gt; MCP &amp; Tool Orchestration
+. &gt; Vision AI &amp; Shell Agents
 
-. **Expertise:**
-. > AI Agents & Memory Systems
-. > LLM Infrastructure
-. > Developer Tools
-. > MCP & Tool Orchestration
-. > Vision AI & Shell Agents
-
-. **Quote:**
+. <b>Quote:</b>
 . "Chaos certus est, omnesque eius filii sumus."
 . ~ Chaos is certain, and we are all its children.
 
-. **Contact:**
-. **Email:** ....................... michiel@4mlabs.io
-. **X/Twitter:** ................... @michielhdoteth
-. **Website:** ..................... michielh.me
-. **GitHub:** ...................... michielhdoteth
+. <b>Contact:</b>
+. <b>Email:</b> ....................... michiel@4mlabs.io
+. <b>X/Twitter:</b> ................... @michielhdoteth
+. <b>Website:</b> ..................... michielh.me
+. <b>GitHub:</b> ...................... michielhdoteth
 
-. **Github Stats:**
-. **Repos:** ... 9 | **Stars:** ... 117 | **Followers:** ... 6
-. **Languages:** ................... TypeScript, Python, JavaScript
-
+. <b>Github Stats:</b>
+. <b>Repos:</b> ... 9 | <b>Stars:</b> ... 117 | <b>Followers:</b> ... 6
+. <b>Languages:</b> ................... TypeScript, Python, JavaScript
+</pre>
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -51,52 +53,6 @@
 **Founder of [4M Labs](https://4mlabs.io) | [Website](https://michielh.me) | [Twitter](https://twitter.com/michielhdoteth) | [Medium](https://michielh.medium.com) | [michiel@4mlabs.io](mailto:michiel@4mlabs.io)**
 
 </div>
-
----
-
-## GitHub Analytics
-
-<table>
-<tr>
-<td width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michielhdoteth&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6a00&icon_color=ff6a00&text_color=c9d1d9&ring_color=ff6a00)
-
-</td>
-<td width="50%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michielhdoteth&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=c9d1d9&langs_count=6)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michielhdoteth&hide_border=true&background=0d1117&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00&sideLabels=c9d1d9&dates=8b949e)
-
-</td>
-<td width="50%">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=michielhdoteth&bg_color=0d1117&color=ff6a00&line=ff6a00&point=ffffff&area=true&area_color=ff6a00&hide_border=true)
-
-</td>
-</tr>
-</table>
-
----
-
-## What I Build
-
-| AI Agents | Memory Systems | Dev Tools |
-|-----------|----------------|-----------|
-| Memory systems | Local-first storage | MCP servers |
-| Tool orchestration | Cross-session memory | CLI utilities |
-| Multi-modal agents | Context engineering | Agent infrastructure |
-| Shell-capable AI | Knowledge graphs | Open-source components |
-| Persistent context | Recall optimization | Developer experience |
 
 ---
 
