@@ -11,7 +11,6 @@
 . <b>OS:</b> ........................... NeuralOS 3.14 (AI-Native)
 . <b>Uptime:</b> ...................... ∞ (never sleeps)
 . <b>Host:</b> ........................ 4M Labs
-. <b>Kernel:</b> ...................... Chaos Engine v2.0
 . <b>IDE:</b> ......................... VS Code, OpenCode
 
 . <b>Languages.Programming:</b> ....... TypeScript, Python, JavaScript
