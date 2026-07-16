@@ -40,10 +40,10 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-michielh.me-ff6a00?style=flat-square&logo=googlechrome&logoColor=white)](https://michielh.me)
-[![Twitter](https://img.shields.io/badge/Twitter-@michielhdoteth-ff6a00?style=flat-square&logo=x&logoColor=white)](https://x.com/michielhdoteth)
-[![Email](https://img.shields.io/badge/Email-michiel%404mlabs.io-ff6a00?style=flat-square&logo=gmail&logoColor=white)](mailto:michiel@4mlabs.io)
-[![GitHub](https://img.shields.io/badge/GitHub-michielhdoteth-ff6a00?style=flat-square&logo=github&logoColor=white)](https://github.com/michielhdoteth)
+[![Website](https://img.shields.io/badge/Website-michielh.me-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://michielh.me)
+[![Twitter](https://img.shields.io/badge/Twitter-@michielhdoteth-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/michielhdoteth)
+[![Email](https://img.shields.io/badge/Email-michiel%404mlabs.io-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:michiel@4mlabs.io)
+[![GitHub](https://img.shields.io/badge/GitHub-michielhdoteth-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/michielhdoteth)
 
 ![Visitors](https://komarev.com/ghpvc/?username=michielhdoteth&color=ff6a00&style=flat-square&label=PROFILE+VIEWS)
 
